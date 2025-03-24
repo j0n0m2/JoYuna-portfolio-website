@@ -30,17 +30,17 @@ function Home() {
       <Title>조유나 포트폴리오</Title>
       <ContentsWrapper>
         <Link to="/급여-관리-시스템">
-        <ContentBox>
-          <ContentTitle>급여 관리 시스템</ContentTitle>
-          <ContentSubTitle>
-            가상의 기업, Sweet Ten을 위한 급여 관리 시스템
-          </ContentSubTitle>
-          <img
-            src="https://velog.velcdn.com/images/j0n0m2/post/19f15438-e381-4589-82fc-ac82d2a22ca4/image.png"
-            alt="급여 관리 시스템"
-            width="560px"
-          />
-        </ContentBox>
+          <ContentBox>
+            <ContentTitle>급여 관리 시스템</ContentTitle>
+            <ContentSubTitle>
+              가상의 기업, Sweet Ten을 위한 급여 관리 시스템
+            </ContentSubTitle>
+            <img
+              src="https://velog.velcdn.com/images/j0n0m2/post/19f15438-e381-4589-82fc-ac82d2a22ca4/image.png"
+              alt="급여 관리 시스템"
+              width="560px"
+            />
+          </ContentBox>
         </Link>
         <ContentBox>
           <ContentTitle>Error! (Loud and Soft)</ContentTitle>
@@ -57,7 +57,7 @@ function Home() {
         <ContentBox>
           <ContentTitle>사과</ContentTitle>
           <ContentSubTitle>
-            음악을 시각화하는 인터랙티브 영상 디자인 프로젝트
+            사용자의 표정을 인식하여 사과의 상태가 변화하는 프로젝트
           </ContentSubTitle>
           <ReactPlayer
             url="https://www.youtube.com/watch?v=gER-K9mMuks"
