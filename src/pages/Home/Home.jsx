@@ -42,6 +42,20 @@ function Home() {
             />
           </ContentBox>
         </Link>
+        <Link to="/리플레이">
+          <ContentBox>
+            <ContentTitle>리플레이</ContentTitle>
+            <ContentSubTitle>
+              게임 영상 플레이리스트 공유 플랫폼 (모바일 전용)
+            </ContentSubTitle>
+            <img
+              src="https://private-user-images.githubusercontent.com/67031524/435025541-fa641f2b-4b32-4439-bb10-26a3536144f6.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDY1MjUyNTYsIm5iZiI6MTc0NjUyNDk1NiwicGF0aCI6Ii82NzAzMTUyNC80MzUwMjU1NDEtZmE2NDFmMmItNGIzMi00NDM5LWJiMTAtMjZhMzUzNjE0NGY2LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA1MDYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNTA2VDA5NDkxNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTllNDIyNThkM2ZiOWUwM2IxYTIyZWVjNjRkNjhmNmRmMWFjZmY1YzYzMzlmNTQ3YTI2MTJlNTU3ODY3M2I5ODQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.uiu2XlziGwT8zq05YByqEPjMr5MpGtsgh-R0jcG9di0"
+              alt="리플레이"
+              width="560px"
+            />
+          </ContentBox>
+        </Link>
+
         <ContentBox>
           <ContentTitle>Error! (Loud and Soft)</ContentTitle>
           <ContentSubTitle>

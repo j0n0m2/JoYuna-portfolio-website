@@ -14,7 +14,7 @@ const Wrapper = styled.div`
 const Content = styled.div`
   background-color: white;
   padding: 20px 30px;
-  a{
+  a {
     text-decoration: underline;
     display: inline-block;
     color: #3cb69c;
@@ -37,13 +37,15 @@ const ProjectDetail = () => {
       </Link>
       <Wrapper>
         <img
-          src="https://private-user-images.githubusercontent.com/148299246/426209176-b3ba6eba-742b-476c-a2d7-fcee944ee735.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDI4Mzk4NDEsIm5iZiI6MTc0MjgzOTU0MSwicGF0aCI6Ii8xNDgyOTkyNDYvNDI2MjA5MTc2LWIzYmE2ZWJhLTc0MmItNDc2Yy1hMmQ3LWZjZWU5NDRlZTczNS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMzI0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDMyNFQxODA1NDFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0yYTAzYzkwNTU0ODZkYjg2YWRiNDk4ZmY4MDdhNTQ1NzZjZWQyNWZhMGZjZWU5ZjQ3N2Y4YzcyNWMwMDMwNWQ3JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.ad5PbfLph1gJ3PeWqWaUD4qGv4zKfBsyRDDnvFmuTy4"
+          src="https://velog.velcdn.com/images/j0n0m2/post/19f15438-e381-4589-82fc-ac82d2a22ca4/image.png"
           alt="급여 관리 시스템"
         />
         <ContentsBox>
           <Content>
             <h1>급여 관리 시스템</h1>
-            <a href="https://github.com/Dev-FE-3/toy-project2-team2">▶︎ 깃헙 바로가기</a>
+            <a href="https://github.com/Dev-FE-3/toy-project2-team2">
+              ▶︎ 깃헙 바로가기
+            </a>
             <p>React, Styled-Component, Firebase, Redux, Figma</p>
             <ul>
               <li>페이지 디자인</li>
